@@ -7,5 +7,3 @@
   `chmod +x foo.sh`
 3. Run  
   `./foo.sh [repo_user],[repo_name]`
-4. Delete  
-  `rm -f ./foo.sh`
