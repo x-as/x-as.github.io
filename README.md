@@ -5,5 +5,7 @@
    * `wget http://x-as.github.io/foo.sh`  
 2. Add Permission  
   `chmod +x foo.sh`
-3. Exec  
+3. Run  
   `./foo.sh [repo_user],[repo_name]`
+4. Delete  
+  `rm -f ./foo.sh`
